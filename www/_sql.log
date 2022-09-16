@@ -1,0 +1,1 @@
+insert into app_comment set  comment_user_id = "4", comment_article_id = "19", comment_author_id = "4", comment_text = "qsdqsd", comment_datetime = now()
